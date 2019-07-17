@@ -2,9 +2,10 @@
 A simple Java web application that is built to learn the basics of JavaServer Pages (JSP).
 
 
-## SQL
-# DB Name testDB
+# SQL
+## DB Name testDB
 -- Create table
+
 create table USER_ACCOUNT
 (
 USER_NAME VARCHAR(30) not null,
@@ -14,6 +15,7 @@ primary key (USER_NAME)
 );
  
 -- Create table
+
 create table PRODUCT
 (
 CODE  VARCHAR(20) not null,
